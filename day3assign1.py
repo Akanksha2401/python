@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Question 1:
+# 
 
 # In[6]:
 
@@ -34,7 +34,7 @@ else:
     print("|-----|")
 
 
-# # Question 2:
+# 
 
 # In[2]:
 
@@ -54,7 +54,7 @@ else:
               
 
 
-# # Question 3: 
+#  
 
 # In[7]:
 
@@ -80,7 +80,7 @@ print(text)
 file.close()
 
 
-# # Question 4:
+# 
 
 # In[ ]:
 
