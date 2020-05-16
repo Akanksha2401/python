@@ -59,9 +59,9 @@ else:
 # In[7]:
 
 
-file =open("FCS.txt",'w');
+file =open("First.txt",'w');
 print(file)
-file.write("I love FCS")
+file.write("I like watching socker")
 file.close()
 
 
@@ -74,7 +74,7 @@ print(file)
 # In[9]:
 
 
-file=open("Assignment.txt","r")
+file=open("filename.txt","r")
 text=file.read()
 print(text)
 file.close()
